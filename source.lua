@@ -1,5 +1,6 @@
 -- Made by maximilian
 -- Please give credit if you want to use it
+-- Supported games: https://github.com/maximilianscho/towerhub/blob/main/supported.txt
 
 -- Instances:
 
