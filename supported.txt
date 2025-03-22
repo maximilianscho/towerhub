@@ -13,12 +13,17 @@
 - Mixue Tower: https://www.roblox.com/games/11929572390/Mixue-Tower
 - Nailong Tower: https://www.roblox.com/games/93158568814596/NAILONG-TOWER
 - Oiia Tower: https://www.roblox.com/games/130363421983124/Oiia-Tower-MEGA-UPDATE
-- Powerpuff Tower: https://www.roblox.com/games/96702859620921/Powerpuff-Tower
 - Puasa Tower: https://www.roblox.com/games/89782687139611/Puasa-Tower
 - Rainbow Healing Tower (1): https://www.roblox.com/games/9704495824/Rainbow-Healing-Tower
 - Rainbow Healing Tower (2): https://www.roblox.com/games/6595444094/Rainbow-Healing-Tower
-- Sa Myang Tower: https://www.roblox.com/games/9637373353/SA-MYANG-TOWER-BACK-SECRET-PLACE
 - Sitil Tower: https://www.roblox.com/games/118673304074401/Sitil-Tower
 - Teka Teki Tower: https://www.roblox.com/games/124018586661892/Teka-Teki-Tower
-- Tower Kebalik: https://www.roblox.com/games/127588283637815/Tower-Kebalik-New
 - Tower of Cotton Candy: https://www.roblox.com/games/6086238307/Tower-of-cotton-candy
+
+COMING SOON:
+- Sitil Tower: https://www.roblox.com/games/118673304074401/Sitil-Tower
+- Tower Kebalik: https://www.roblox.com/games/127588283637815/Tower-Kebalik-New
+
+If there any issues go to https://github.com/maximilianscho/towerhub/issues
+Jika ada masalah, kunjungi https://github.com/maximilianscho/towerhub/issues
+문제가 있는 경우 https://github.com/maximilianscho/towerhub/issues를 방문하세요.
